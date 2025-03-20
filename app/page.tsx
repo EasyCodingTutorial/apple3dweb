@@ -4,7 +4,7 @@ import Hero3D from './components/Hero3D';
 import Features from './components/Features';
 import Experience from './components/Experience';
 import Showcase from './components/Showcase';
-import Specs from './components/Specs';
+import TechnicalSpecs from './components/TechnicalSpecs';
 import ImmersiveExperiences from './components/ImmersiveExperiences';
 import Footer from './components/Footer';
 import { motion } from 'framer-motion';
@@ -31,8 +31,8 @@ const Home: FC = () => {
       {/* Immersive Experiences Section */}
       <ImmersiveExperiences />
 
-      {/* Specs Section */}
-      <Specs />
+      {/* Technical Specifications Section */}
+      <TechnicalSpecs />
 
       {/* Footer */}
       <Footer />
