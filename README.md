@@ -31,7 +31,7 @@ Visit the live website at: [https://apple3dweb.vercel.app/](https://apple3dweb.v
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/apple3dweb.git
+git clone https://github.com/EasyCodingTutorial/apple3dweb.git
 cd apple3dweb
 ```
 
@@ -59,13 +59,13 @@ pnpm dev
 
 ```
 apple3dweb/
-├── app/                    # Next.js app directory
-│   ├── components/        # Reusable components
+├── app/                  # Next.js app directory
+│   ├── components/       # Reusable components
 │   ├── styles/           # Global styles
 │   └── page.tsx          # Main page component
 ├── public/               # Static assets
 ├── src/                  # Source files
-└── scripts/             # Build and utility scripts
+└── scripts/              # Build and utility scripts
 ```
 
 ## 🔧 Configuration
